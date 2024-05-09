@@ -1,0 +1,26 @@
+{
+    "cantidad": 3,
+    "resultado": [
+        {
+            "id": 1,
+            "image": "https://wetrust.github.io/piloto_minck/ofertadiespalos.jpg",
+            "categoria": "Tendencia",
+            "titulo": "Oferta insuperable",
+            "cuerpo": "Lo que estabas esperando en Temuco"
+        },
+        {
+            "id": 2,
+            "image": "https://wetrust.github.io/piloto_minck/febrero.jpg",
+            "categoria": "Oferta",
+            "titulo": "Ultima Oportunidad",
+            "cuerpo": "Esto no se volverá a repetir"
+        },
+        {
+            "id": 3,
+            "image": "https://wetrust.github.io/piloto_minck/pro_web.jpg",
+            "categoria": "Propiedades",
+            "titulo": "Invierte hoy",
+            "cuerpo": "Bienes raices disponibles"
+        }
+    ]
+}
