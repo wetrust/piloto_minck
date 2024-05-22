@@ -1,0 +1,19 @@
+{
+  "cantidad": 12,
+  "resultado": [
+    {
+      "id": 1,
+      "nombre": "OFICINA 18 M2",
+      "categoria": "Venta | K Business Center",
+      "edificio": "K Business Center",
+      "ciudad": "",
+      "valor_uf": 12,
+      "valor_pesos": 12,
+      "imagen_principal": "https://wetrust.github.io/piloto_minck/43.png",
+      "imagen_edificio": "",
+      "descripcion": "",
+      "dormitorios": 1,
+      "Baños": 1,
+      "tipo": "Estudio"
+    }
+}
