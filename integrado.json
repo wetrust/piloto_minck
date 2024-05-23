@@ -1,0 +1,34 @@
+         },
+         {
+            "id":8,
+            "nombre":"DEPTO. 1D + 1B",
+            "categoria":"Arriendo | Life By K",
+            "edificio":"Life By K",
+            "ciudad":"",
+            "valor_uf":12,
+            "valor_pesos":12,
+            "imagen_principal":"https://wetrust.github.io/piloto_minck/35.png",
+            "imagen_edificio":"",
+            "descripcion":"",
+            "dormitorios":1,
+            "Baños":1,
+            "tipo":"Estudio"
+         },
+         {
+            "id":9,
+            "nombre":"DEPTO. 2D + 2B",
+            "categoria":"Arriendo | Life By K",
+            "edificio":"Life By K",
+            "ciudad":"",
+            "valor_uf":12,
+            "valor_pesos":12,
+            "imagen_principal":"https://wetrust.github.io/piloto_minck/37.png",
+            "imagen_edificio":"",
+            "descripcion":"",
+            "dormitorios":1,
+            "Baños":1,
+            "tipo":"Estudio"
+         }
+      ]
+   }
+}
